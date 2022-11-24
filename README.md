@@ -38,6 +38,7 @@ Below table shows the HEX values and corresponding digit according to LPC2148 pi
 | 15     | 0x1c     | F             |
 | 16     | 0x1e     | 0             |
 
+
 ![image](https://user-images.githubusercontent.com/36288975/201021930-7efe2b15-b0de-4d52-b87d-329fe6b91c89.png)
 
 Figure -3 Circuit diagram of interfacing for LPX4 - CA
