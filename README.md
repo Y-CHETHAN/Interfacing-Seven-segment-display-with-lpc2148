@@ -85,7 +85,7 @@ int main(void)
 
 ## Output:
 
-<img width="1515" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203902961-8b91b7d7-0362-4811-b611-1ae29c8c617d.png">
+<img width="1515" height="1515" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203902961-8b91b7d7-0362-4811-b611-1ae29c8c617d.png">
 
 <img width="1515" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203903042-c4d7e1ab-81e3-48c7-94cd-01e2a1a75564.png">
 
