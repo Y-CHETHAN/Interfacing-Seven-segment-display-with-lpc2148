@@ -43,8 +43,6 @@ Below table shows the HEX values and corresponding digit according to LPC2148 pi
 
 Figure -3 Circuit diagram of interfacing for LPX4 - CA
 
-<br><br>
-
 ## Kiel - Program:
 ```c
 #include<lpc214x.h>
@@ -80,8 +78,6 @@ int main(void)
 		}
 }
 ```
-
-<br><br><br><br><br><br>
 
 ## Output:
 
