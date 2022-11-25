@@ -1,7 +1,7 @@
 # EXPERIMENT 08 - INTERFACING SEVEN SEGMENT DISPLAY WITH LPC2148
 
 ## Aim:
-To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
+To configure and display 4 character LED seven segment display and write a C code for displaying number 1 to 9 and A to F 
 
 ## Components Required:
 Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
@@ -85,7 +85,7 @@ int main(void)
 
 ## Output:
 
-<img width="1515" height="250" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203902961-8b91b7d7-0362-4811-b611-1ae29c8c617d.png">
+<img width="1515" height="500" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203902961-8b91b7d7-0362-4811-b611-1ae29c8c617d.png">
 
 <img width="1515" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203903042-c4d7e1ab-81e3-48c7-94cd-01e2a1a75564.png">
 
