@@ -81,6 +81,8 @@ int main(void)
 }
 ```
 
+<br><br><br><br>
+
 ## Output:
 <img width="1515" alt="Experiment 8" src="https://user-images.githubusercontent.com/75234991/203902961-8b91b7d7-0362-4811-b611-1ae29c8c617d.png">
 
